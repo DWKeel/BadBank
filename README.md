@@ -16,7 +16,7 @@ Create an account, login, deposit & withdraw funds, check your balance, and see 
 License
 MIT License
 
-Copyright (c) 2020 John Williams
+Copyright (c) 2020 Daniel Keel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

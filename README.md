@@ -38,4 +38,5 @@ SOFTWARE.
 
 
 Screenshots
-(insert screenshots)
+![Screen Shot 2023-04-18 at 3 58 23 PM](https://user-images.githubusercontent.com/93685529/232923575-5324137e-0b66-417b-a379-bc98ce5816a7.png)
+
